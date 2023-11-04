@@ -7,7 +7,7 @@ Software Developer
 A dedicated and aspiring software developer with hands-on experience in developing full-stack web applications using the MERN stack, I have a solid understanding of data structures and algorithms. Additionally, I have gained valuable insights into Python and have worked with various NLP libraries and Pandas for data analysis.
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Next Js
+* 🧠  I'm a webdev enthusiast, constantly improving
 
 ### Skills
 
