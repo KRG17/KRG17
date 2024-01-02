@@ -38,7 +38,6 @@ A dedicated and aspiring software developer with hands-on experience in developi
 
 <a href="https://github.com/KRG17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRG17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krg17&label=Profile%20views&color=0e75b6&style=flat" alt="krg17" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krg17&show_icons=true&locale=en&layout=compact" alt="krg17" /></p>
 
