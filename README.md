@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritank Rishi Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-====================================
-
-Software Developer
-------------------
 
 A dedicated and aspiring software developer with hands-on experience in developing full-stack web applications using the MERN stack, I have a solid understanding of data structures and algorithms. Additionally, I have gained valuable insights into Python and have worked with various NLP libraries and Pandas for data analysis.
 
