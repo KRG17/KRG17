@@ -1,4 +1,5 @@
-Hi 👋 My name is Kritank Rishi Goyal
+<h1 align="center">Hi 👋, I'm Kritank Rishi Goyal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 ====================================
 
 Software Developer
