@@ -40,10 +40,6 @@ A dedicated and aspiring software developer with hands-on experience in developi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krg17&label=Profile%20views&color=0e75b6&style=flat" alt="krg17" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krg17&show_icons=true&locale=en&layout=compact" alt="krg17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krg17&show_icons=true&locale=en" alt="krg17" /></p>
